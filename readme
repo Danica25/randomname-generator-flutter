@@ -5,3 +5,7 @@ What you'll learn :
 3.How to add interactivity to a stateful widget.
 4.How to create and navigate to a second screen.
 5.How to change the look of an app using themes.
+
+
+REPLACE THE DEFAULT CODE WITH THE CODE GIVEN IN THE main.dart
+ADD A LINE UNDER DEPENDENCIES IN pubspec.yaml file.
